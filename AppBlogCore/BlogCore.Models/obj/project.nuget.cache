@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "04kSJ78+31UjeBUC44BcY1ndCn0r10XQEyAQwEbEHF68PzFshWuma97gXtc96j5YqHW8QXZs5I1sEQr8lRiXyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fernando Bonilla\\Documents\\GitHub\\Net.-Core-7-BlogCore\\AppBlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando Bonilla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Fernando Bonilla\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Fernando Bonilla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

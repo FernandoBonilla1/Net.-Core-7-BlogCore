@@ -1,0 +1,11 @@
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.deps.json
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.dll
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.dll
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\obj\Debug\net7.0\refint\BlogCore.Utilidades.dll
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\BlogCore.Utilidades\obj\Debug\net7.0\ref\BlogCore.Utilidades.dll
