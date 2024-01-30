@@ -565,3 +565,4 @@ C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\AppB
 C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\AppBlogCore\bin\Debug\net7.0\BlogCore.AccesoDatos.pdb
 C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\AppBlogCore\bin\Debug\net7.0\BlogCore.Models.pdb
 C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\AppBlogCore\bin\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\Fernando Bonilla\Documents\GitHub\Net.-Core-7-BlogCore\AppBlogCore\AppBlogCore\obj\Debug\net7.0\AppBlogCore.sourcelink.json
